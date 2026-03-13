@@ -1,4 +1,4 @@
-package com.example.btl_mobile;
+package com.example.miniproject;
 
 import android.os.Bundle;
 
